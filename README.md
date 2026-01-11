@@ -237,9 +237,9 @@ All 5 design patterns implemented successfully
 
 ## Author
 
-Karyna
-Course Work - Development and re-engineering of software systems
-2026
+Karyna Polishchuk  
+Course Work - Development and re-engineering of software systems  
+2026  
 
 ## License
 
