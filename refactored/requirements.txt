@@ -1,0 +1,9 @@
+Django==3.2.25
+django-allauth==0.50.0
+django-countries==7.3.2
+django-crispy-forms==1.14.0
+django-debug-toolbar==3.2.4
+Pillow==9.5.0
+python-decouple==3.6
+stripe==5.0.0
+requests==2.31.0
