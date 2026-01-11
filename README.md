@@ -1,5 +1,3 @@
-# Django E-commerce Reengineering 
-
 # Django E-commerce Reengineering
 
 Course work: Applying design patterns to Django e-commerce system
